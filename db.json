@@ -1,0 +1,35 @@
+{
+	"product" :[   
+	
+		{
+			"id":1,
+			"name":"candy",
+			"place":"market"
+		},
+		{
+			"id":2,
+			"name":"pasta",
+			"place":"market"
+		},
+		{
+			"id":3,
+			"name":"cake",
+			"place":"bakery"
+		},
+		{
+			"id":4,
+			"name":"book",
+			"place":"bookstore"
+		},
+		{
+			"id":5,
+			"name":"cd",
+			"place":"bookstore"
+		},
+		{
+			"id":6,
+			"name":"candle",
+			"place":"bakery"
+		}
+	]
+}
